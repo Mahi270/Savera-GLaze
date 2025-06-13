@@ -6,7 +6,7 @@ const Popular = () => {
   return (
     <div className='popular'>
       <h1> 
-        Catelogue
+        Catalogue
         </h1>
       <hr/>
       <div className='popular-item'>
